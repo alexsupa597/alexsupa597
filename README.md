@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🥙: I’m currently learning Web Development Technologies in Frontend <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" /> Backend <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
+- 🥙: I’m currently foucs on Web Development Technologies in Frontend <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" /> Backend <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
  and Databases (MongoDB). I like to use AWS for Cloud Solutions. :octocat:
 
 <!-- 🚀 Some of my main projects: -->
@@ -122,8 +122,8 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 ```
 
--->
 ## **Timeline**
+-->
 
 
 
