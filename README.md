@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+![](https://activity-graph.herokuapp.com/graph?username=alexsupa597&theme=github)
+
+
 <!--
 **alexsupa597/alexsupa597** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
