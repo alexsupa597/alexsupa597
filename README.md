@@ -48,11 +48,11 @@
 <br/>
 <img src="https://img.shields.io/badge/-React.js-42B883?style=flat-square&logo=React.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/-NEXT-F44D27?style=flat-square&logo=NEXT&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Storybook-FF4785?style=flat-square&logo=Storybook&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Vue.js-42B883?style=flat-square&logo=Vue.js&logoColor=white"/>
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 <img src="https://img.shields.io/badge/-Nest-FA6400?style=flat-square&logo=Nest&logoColor=white"/>
 <img src="https://img.shields.io/badge/-WebPack-1C78C0?style=flat-square&logo=WebPack&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Storybook-FF4785?style=flat-square&logo=Storybook&logoColor=white"/>
 <img src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=Google%20Cloud&logoColor=white"/>
 <img src="https://img.shields.io/badge/-SUPABASE-123F6D?style=flat-square&logo=SUPABASE&logoColor=white"/>
