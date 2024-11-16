@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-- 🔭 I’m currently learning Web Development Technologies in Frontend <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" /> Backend <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
+- 🥙: I’m currently learning Web Development Technologies in Frontend <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" /> Backend <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
  and Databases (MongoDB). I like to use AWS for Cloud Solutions. :octocat:
 
 <!-- 🚀 Some of my main projects: -->
 
-- 🌱 I’m currently working on Projects in React and Nest with MongoDB and GraphQL.
+- 😃: I’m currently working on Projects in React and Nest with MongoDB and GraphQL.
 
 <!--[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=minoveaz&repo=angular-web-portfolio)](https://github.com/minoveaz/angular-web-portfolio)
 
@@ -13,14 +13,15 @@
 
 -->
 
-- :bar_chart: I love Stats and make cool Dashboards
+- 🍪: I love Stats and make cool Dashboards
 
 
-- 📌  Living in Shanghai, China
+- 🚩:  Living in Shanghai, China
 </p>
 
 
 ## Follow Me
+
 
 
 [![Gmail Badge](https://img.shields.io/badge/-alexsupa597@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alexsupa597@gmail.com)](mailto:alexsupa597@gmail.com)
