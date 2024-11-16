@@ -25,8 +25,8 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-alexsupa597@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alexsupa597@gmail.com)](mailto:alexsupa597@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/alexsupa597)](https://github.com/alexsupa597)
-[![Twitter Badge](https://img.shields.io/badge/-Follow_on_X-00acee?style=flat&logo=X&logoColor=white)](https://x.com/alexsupa597?screen_name=alexsupa597 "Follow on Twitter")
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-00acee?style=flat&logo=Telegram&logoColor=white)](https://t.me/alex_supa?screen_name=alexsupa597 "Follow on Telegram")
+[![Twitter Badge](https://img.shields.io/badge/-Follow_on_X-00acee?style=flat-square&logo=X&logoColor=white)](https://x.com/alexsupa597?screen_name=alexsupa597 "Follow on Twitter")
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-00acee?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/alex_supa?screen_name=alexsupa597 "Follow on Telegram")
 
 <!--[![Linkedin Badge](https://img.shields.io/badge/-minoveaz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/minoveaz/)](https://www.linkedin.com/in/minoveaz/)-->
 
